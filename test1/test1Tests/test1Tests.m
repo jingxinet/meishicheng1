@@ -1,6 +1,6 @@
 //
-//  testTests.m
-//  testTests
+//  test1Tests.m
+//  test1Tests
 //
 //  Created by 叶新 on 16/2/24.
 //  Copyright © 2016年 yexin. All rights reserved.
@@ -8,11 +8,11 @@
 
 #import <XCTest/XCTest.h>
 
-@interface testTests : XCTestCase
+@interface test1Tests : XCTestCase
 
 @end
 
-@implementation testTests
+@implementation test1Tests
 
 - (void)setUp {
     [super setUp];
